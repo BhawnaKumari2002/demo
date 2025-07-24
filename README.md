@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repositroy.
 <br>
-Author - Bhawna Kumari
+Author - Bhawna Dongray
